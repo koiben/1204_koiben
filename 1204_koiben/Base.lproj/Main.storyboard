@@ -9,10 +9,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Top-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_204_koiben" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Top" id="BYZ-38-t0r" customClass="ViewController" customModule="_204_koiben" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -45,10 +45,10 @@
             </objects>
             <point key="canvasLocation" x="63.200000000000003" y="125.4872563718141"/>
         </scene>
-        <!--View Controller-->
+        <!--Profile-->
         <scene sceneID="0S9-sz-DhC">
             <objects>
-                <viewController id="l0n-AH-Y6t" sceneMemberID="viewController">
+                <viewController title="Profile" id="l0n-AH-Y6t" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Rfo-u1-czr"/>
                         <viewControllerLayoutGuide type="bottom" id="ALe-jB-g0x"/>
@@ -81,10 +81,10 @@
             </objects>
             <point key="canvasLocation" x="764" y="124.58770614692655"/>
         </scene>
-        <!--View Controller-->
+        <!--Story-->
         <scene sceneID="BXt-BF-QI8">
             <objects>
-                <viewController id="CJR-Rg-JV7" sceneMemberID="viewController">
+                <viewController title="Story" id="CJR-Rg-JV7" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Q6x-2N-dGO"/>
                         <viewControllerLayoutGuide type="bottom" id="9Kj-Hb-KhG"/>
@@ -116,10 +116,10 @@
             </objects>
             <point key="canvasLocation" x="1455" y="125"/>
         </scene>
-        <!--Item 2-->
+        <!--Type2-->
         <scene sceneID="KeX-iQ-MCT">
             <objects>
-                <viewController id="9yg-X6-VCu" sceneMemberID="viewController">
+                <viewController title="Type2" id="9yg-X6-VCu" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="vXd-Qs-gxK"/>
                         <viewControllerLayoutGuide type="bottom" id="tsC-jg-9IT"/>
@@ -151,10 +151,10 @@
             </objects>
             <point key="canvasLocation" x="2921" y="341"/>
         </scene>
-        <!--Item 2-->
+        <!--Diary-->
         <scene sceneID="O27-c1-1ie">
             <objects>
-                <viewController id="RnW-gn-3kx" sceneMemberID="viewController">
+                <viewController title="Diary" id="RnW-gn-3kx" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ZTX-2b-Xgs"/>
                         <viewControllerLayoutGuide type="bottom" id="Cca-oq-1xw"/>
@@ -187,10 +187,10 @@
             </objects>
             <point key="canvasLocation" x="4764" y="-45"/>
         </scene>
-        <!--Item 1-->
+        <!--Main1-->
         <scene sceneID="NAC-xE-h6R">
             <objects>
-                <viewController id="DQG-NY-cvC" sceneMemberID="viewController">
+                <viewController title="Main1" id="DQG-NY-cvC" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Ojv-pu-W3l"/>
                         <viewControllerLayoutGuide type="bottom" id="HL0-rM-9CB"/>
@@ -234,10 +234,10 @@
             </objects>
             <point key="canvasLocation" x="4764" y="-753.37331334332839"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--MainTab-->
         <scene sceneID="GOU-as-IQP">
             <objects>
-                <tabBarController id="vqs-Nc-s6s" sceneMemberID="viewController">
+                <tabBarController title="MainTab" id="vqs-Nc-s6s" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" id="Idj-Dc-qg0">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -254,10 +254,10 @@
             </objects>
             <point key="canvasLocation" x="3841" y="125"/>
         </scene>
-        <!--Item-->
+        <!--Recode-->
         <scene sceneID="bsT-9O-5YW">
             <objects>
-                <viewController id="jzb-Dl-U0V" sceneMemberID="viewController">
+                <viewController title="Recode" id="jzb-Dl-U0V" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VRM-zk-gQO"/>
                         <viewControllerLayoutGuide type="bottom" id="tjv-Ob-ujt"/>
@@ -290,10 +290,10 @@
             </objects>
             <point key="canvasLocation" x="4764" y="657"/>
         </scene>
-        <!--Item-->
+        <!--Money-->
         <scene sceneID="ORX-7U-twV">
             <objects>
-                <viewController id="EhG-bv-nto" sceneMemberID="viewController">
+                <viewController title="Money" id="EhG-bv-nto" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Cnr-th-MO3"/>
                         <viewControllerLayoutGuide type="bottom" id="hma-mq-R2h"/>
@@ -326,10 +326,10 @@
             </objects>
             <point key="canvasLocation" x="4764" y="1342"/>
         </scene>
-        <!--Item-->
+        <!--Type3-->
         <scene sceneID="3u4-8w-8yy">
             <objects>
-                <viewController id="9jj-ec-WCf" sceneMemberID="viewController">
+                <viewController title="Type3" id="9jj-ec-WCf" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pc3-k5-sXL"/>
                         <viewControllerLayoutGuide type="bottom" id="YPk-sz-HwL"/>
@@ -361,10 +361,10 @@
             </objects>
             <point key="canvasLocation" x="2921" y="1146"/>
         </scene>
-        <!--Item 1-->
+        <!--Type1-->
         <scene sceneID="0XN-4j-DDy">
             <objects>
-                <viewController id="vbE-gZ-mUh" sceneMemberID="viewController">
+                <viewController title="Type1" id="vbE-gZ-mUh" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="h2k-Sq-tNO"/>
                         <viewControllerLayoutGuide type="bottom" id="4Qf-5j-352"/>
@@ -396,10 +396,10 @@
             </objects>
             <point key="canvasLocation" x="2900" y="-529.38530734632684"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--TypeTab-->
         <scene sceneID="fuh-B2-ZdM">
             <objects>
-                <tabBarController id="R99-tG-PKz" sceneMemberID="viewController">
+                <tabBarController title="TypeTab" id="R99-tG-PKz" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" id="nMJ-iC-V65">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -422,7 +422,7 @@
         <image name="img003.jpg" width="567" height="1005"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="2gU-4h-L2I"/>
-        <segue reference="EI2-ch-MBZ"/>
+        <segue reference="cet-5t-an4"/>
+        <segue reference="yxh-P7-PqB"/>
     </inferredMetricsTieBreakers>
 </document>
