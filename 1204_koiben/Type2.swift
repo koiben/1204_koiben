@@ -6,10 +6,9 @@
 //  Copyright © 2016年 mycompany. All rights reserved.
 //
 import UIKit
-
 class Type2: UIViewController {
     
     @IBOutlet weak var Type2Tap: UIButton!
-        
+        var type = 2
 
 }

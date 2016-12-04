@@ -369,7 +369,7 @@
         <!--Type3-->
         <scene sceneID="3u4-8w-8yy">
             <objects>
-                <viewController title="Type3" id="9jj-ec-WCf" sceneMemberID="viewController">
+                <viewController title="Type3" id="9jj-ec-WCf" customClass="Type3" customModule="_204_koiben" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pc3-k5-sXL"/>
                         <viewControllerLayoutGuide type="bottom" id="YPk-sz-HwL"/>
@@ -396,6 +396,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="VdS-uV-a9H"/>
+                    <connections>
+                        <outlet property="Type3Tap" destination="yON-gS-ueS" id="DlC-xg-Fxa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yFu-21-V3w" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -404,7 +407,7 @@
         <!--Type1-->
         <scene sceneID="0XN-4j-DDy">
             <objects>
-                <viewController title="Type1" id="vbE-gZ-mUh" sceneMemberID="viewController">
+                <viewController title="Type1" id="vbE-gZ-mUh" customClass="Type1" customModule="_204_koiben" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="h2k-Sq-tNO"/>
                         <viewControllerLayoutGuide type="bottom" id="4Qf-5j-352"/>
@@ -431,6 +434,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item 1" id="tEn-5c-eTY"/>
+                    <connections>
+                        <outlet property="type1tap" destination="L9m-c5-ASB" id="rPw-KX-cDU"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TmZ-Dn-CVp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -462,8 +468,8 @@
         <image name="img003.jpg" width="567" height="1005"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="yxh-P7-PqB"/>
+        <segue reference="IMO-vY-Hun"/>
         <segue reference="ggG-dg-g5w"/>
-        <segue reference="ZgI-Zk-lYf"/>
+        <segue reference="Uhi-hf-IEh"/>
     </inferredMetricsTieBreakers>
 </document>

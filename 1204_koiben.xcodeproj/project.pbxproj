@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		5288EE671DF3EF2500F2E4B6 /* Type2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5288EE661DF3EF2500F2E4B6 /* Type2.swift */; };
+		5288EE691DF3F23900F2E4B6 /* Type3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5288EE681DF3F23900F2E4B6 /* Type3.swift */; };
+		5288EE6B1DF3F30B00F2E4B6 /* Type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5288EE6A1DF3F30B00F2E4B6 /* Type1.swift */; };
 		DB6F5E181DF3A8E60097137B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6F5E171DF3A8E60097137B /* AppDelegate.swift */; };
 		DB6F5E1A1DF3A8E60097137B /* TOP.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6F5E191DF3A8E60097137B /* TOP.swift */; };
 		DB6F5E1D1DF3A8E60097137B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB6F5E1B1DF3A8E60097137B /* Main.storyboard */; };
@@ -20,6 +22,8 @@
 
 /* Begin PBXFileReference section */
 		5288EE661DF3EF2500F2E4B6 /* Type2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Type2.swift; sourceTree = "<group>"; };
+		5288EE681DF3F23900F2E4B6 /* Type3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Type3.swift; sourceTree = "<group>"; };
+		5288EE6A1DF3F30B00F2E4B6 /* Type1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Type1.swift; sourceTree = "<group>"; };
 		DB6F5E141DF3A8E60097137B /* 1204_koiben.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1204_koiben.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB6F5E171DF3A8E60097137B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB6F5E191DF3A8E60097137B /* TOP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOP.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				DB6F5E171DF3A8E60097137B /* AppDelegate.swift */,
 				DB6F5E191DF3A8E60097137B /* TOP.swift */,
 				5288EE661DF3EF2500F2E4B6 /* Type2.swift */,
+				5288EE6A1DF3F30B00F2E4B6 /* Type1.swift */,
+				5288EE681DF3F23900F2E4B6 /* Type3.swift */,
 				DB6F5E1B1DF3A8E60097137B /* Main.storyboard */,
 				DB6F5E1E1DF3A8E60097137B /* Assets.xcassets */,
 				DB6F5E201DF3A8E60097137B /* LaunchScreen.storyboard */,
@@ -162,6 +168,8 @@
 				DB6F5E1A1DF3A8E60097137B /* TOP.swift in Sources */,
 				DB6F5E181DF3A8E60097137B /* AppDelegate.swift in Sources */,
 				5288EE671DF3EF2500F2E4B6 /* Type2.swift in Sources */,
+				5288EE691DF3F23900F2E4B6 /* Type3.swift in Sources */,
+				5288EE6B1DF3F30B00F2E4B6 /* Type1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
