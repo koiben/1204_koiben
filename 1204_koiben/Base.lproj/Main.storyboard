@@ -119,7 +119,7 @@
         <!--Type2-->
         <scene sceneID="KeX-iQ-MCT">
             <objects>
-                <viewController title="Type2" id="9yg-X6-VCu" sceneMemberID="viewController">
+                <viewController title="Type2" id="9yg-X6-VCu" customClass="Type2" customModule="_204_koiben" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="vXd-Qs-gxK"/>
                         <viewControllerLayoutGuide type="bottom" id="tsC-jg-9IT"/>
@@ -146,6 +146,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item 2" id="Q1m-5o-DzR"/>
+                    <connections>
+                        <outlet property="Type2Tap" destination="srg-HN-Ujv" id="3KG-Qr-8dJ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kqh-PV-PZZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -459,7 +462,7 @@
         <image name="img003.jpg" width="567" height="1005"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="2gU-4h-L2I"/>
+        <segue reference="yxh-P7-PqB"/>
         <segue reference="ggG-dg-g5w"/>
         <segue reference="ZgI-Zk-lYf"/>
     </inferredMetricsTieBreakers>
