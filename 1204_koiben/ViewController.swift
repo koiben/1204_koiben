@@ -16,11 +16,6 @@ class ViewController: UIViewController {
 
 //Main画面遷移直後
     //受け取った数字を元に背景画像を表示する
-    var img01 :UIImage = UIImage(named:"image1.jpg")!
-    var img02 :UIImage = UIImage(named:"image2.jpg")!
-    var img03 :UIImage = UIImage(named:"image3.jpg")!
-    var imgArray:[UIImage] = []
-    
     //(受け取った数字を元に)CSVからコメントを表示する
     
 //恋勉をするタップ(UserAct)
