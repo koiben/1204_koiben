@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
   
 //Type選択(UserAct)
-    //押したキャラに応じて数字をメイン画面に渡す
+    //押したキャラに応じて数字をメイン画面に渡すaaaaaa
 
 //Main画面遷移直後
     //受け取った数字を元に背景画像を表示する
